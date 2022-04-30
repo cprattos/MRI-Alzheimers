@@ -1,5 +1,22 @@
-# Enviornment Set Up
-### VSCode
+# Practice Squad Training
+Very humbled to have you here to check out what we hope will be the start of a great group and froum for innovating, demoing, and creating. 
+
+This is the first iteration, so there may be areas with room for improvement. 
+
+## Table of Contents
+0. Download and Install Software
+1. Enviornment SetUp
+2. EDA
+3. Preprocessing
+4. Model Development
+
+## 0. Download & Install Software
+- [Anaconda](https://www.anaconda.com/products/distribution)
+- [VSCode](https://code.visualstudio.com/Download)
+- [Git](https://git-scm.com/downloads/)
+
+## 1.Enviornment Set Up
+**VSCode**
 1. Clone this repo in VSCode
   i. Open VSCode and type (CTRL + Shift + P) to access the command palette located at the top.
   ii. Type git: clone and select the option.
