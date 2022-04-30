@@ -35,9 +35,11 @@ This is the first iteration, so there may be areas with room for improvement.
    3. Since you already installed Anaconda, you should see `conda activate base` run automatically and (base) should be next to your current directory.
    4. Create a new, empty environment by running `conda create -n myenv python=3.9.6`. The name of your enviornment is `myenv` and we are using the latest complete version of python, 3.9.6. Follow the on screen prompts
    5. Follow the on screen promts to activate your environment. From the command palette you many need to select your newly created conda enviornment from the **python: select Interpretor** 
-   6. Install packages
-      1. Run `pip install `
-      2. Run `pip install `
+   6. Now you can install your packages. If you don't know where to start `seaborn`, `Pandas`, `matplotlib` are good EDA libraries.
+         1. Run `pip install __`
+         2. Run `pip install __`
+      You could also download packages from a .yml file...
+   
 
 # Exploratory Data Analysis
 
