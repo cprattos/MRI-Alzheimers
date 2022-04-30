@@ -1,5 +1,7 @@
 # MRI-Alzheimers
 Repo to contain the dataset and content to aid in the EDA, preprocessing, and model development stages.
+![image](https://user-images.githubusercontent.com/99855735/166087831-1ad36e6e-5fbf-4dd8-8c1a-7fcb68a84311.png)
+
 
 ### About Dataset
 https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers
