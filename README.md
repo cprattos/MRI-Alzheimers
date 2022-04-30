@@ -1,5 +1,5 @@
 # MRI-Alzheimers
-This Repo contains the **dataset** and content to aid in the **EDA**, **preprocessing**, and **model development** stages.
+This Repo contains the **dataset** and resources to aid in the **EDA**, **preprocessing**, and **model development** stages.
 
 ![image](https://user-images.githubusercontent.com/99855735/166087831-1ad36e6e-5fbf-4dd8-8c1a-7fcb68a84311.png)
 
@@ -19,3 +19,8 @@ When publishing findings that benefit from OASIS data, please include the follow
 Can you predict dementia? Alzheimer’s?
 
 
+# Exploratory Data Analysis
+
+# Data Preprocessing
+
+# Model Development
