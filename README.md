@@ -17,3 +17,5 @@ When publishing findings that benefit from OASIS data, please include the follow
 
 ## Inspiration:
 Can you predict dementia? Alzheimer’s?
+
+## Getting Started
