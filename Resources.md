@@ -1,5 +1,5 @@
 # Practice Squad Training
-Very humbled to have you here to check out what we hope will be the start of a great group and froum for innovating, demoing, and creating. 
+Very humbled to have you here to check out what we hope will be the start of a great group and forum for innovating, demoing, and creating. 
 
 This is the first iteration, so there may be areas with room for improvement. 
 
