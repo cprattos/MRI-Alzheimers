@@ -26,6 +26,7 @@ This is the first iteration, so there may be areas with room for improvement.
 2. After cloning, you should be prompted to install some extensions -- you should! The extensions are:
    * `python extension`
    * `Jupyter`
+   * `Azure Machine Learning`
    * `Github Repositories`
    * `rainbow csv`
 3. Create your conda environment and install the necessary packages in here **once** so that you can reuse this environment for future work.
