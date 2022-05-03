@@ -20,7 +20,7 @@ We cannot fully encompass all that is Data Science. Nor can we keep up - the pac
 - [VSCode](https://code.visualstudio.com/Download)
 - [Git](https://git-scm.com/downloads/)
 
-## 1.Enviornment Set Up
+## 1. Enviornment Set Up
 **VSCode** 
 1. Clone [this repo](https://github.com/cprattos/MRI-Alzheimers.git) in VSCode
    1. Open VSCode and type (`CTRL + Shift + P`) to access the command palette located at the top.
@@ -58,22 +58,22 @@ We cannot fully encompass all that is Data Science. Nor can we keep up - the pac
 - [Version Control | VSStudio Docs](https://code.visualstudio.com/Docs/editor/versioncontrol)
    
 
-# Exploratory Data Analysis
+## 2. Exploratory Data Analysis
 - [Exploratory Data Analysis | NIST](https://www.itl.nist.gov/div898/handbook/toolaids/pff/eda.pdf?msclkid=d7346bcfc00911ec93f062f08345b6a6)
 - [Car Price Prediction EDA Notebooks | Kaggle](https://www.kaggle.com/code/abhishekumeshparikh/car-price-prediction-eda-basics/notebook)
 - [EDA for Machine Leraning | analyticsvidhya](https://www.analyticsvidhya.com/blog/2021/04/rapid-fire-eda-process-using-python-for-ml-implementation/)
 - [Knowledge from the data and Data Exploration Analysis | Medium](https://medium.com/ml-research-lab/chapter-4-knowledge-from-the-data-and-data-exploration-analysis-99a734792733)
 - [Fnd the right Graphic | from Data to Viz](https://www.data-to-viz.com/)
 
-# Data Preprocessing
+## 3. Data Preprocessing
 - [What Is Data Processing: Cycle, Types, Methods, Steps and Examples | simplilearn](https://www.simplilearn.com/what-is-data-processing-article)
 - [Data Pre Processing Techniques You Should Know | Towards Data Science](https://towardsdatascience.com/data-pre-processing-techniques-you-should-know-8954662716d6)
 - [Preprocessing data with TensorFlow Transform | Tensorflow](https://www.tensorflow.org/tfx/tutorials/transform/simple)
 
-# Model Development
+## 4. Model Development
 - [Data Science Methodology From Modelling to Evaluation | Medium](https://medium.com/ml-research-lab/part-4-data-science-methodology-from-modelling-to-evaluation-3fb3c0cdf805)
 
-# Useful Github Repos
+## 5. Useful Github Repos
 - [Azure Data Roadshow Hackathon](https://github.com/memasanz/titantic-dataset-azuredataroadshowhack)
    * Tags: Conda Create from YML file, EDA, Preprocessing, Model Deployment to AML, Batch Inference Pipeline
 - [Data Science Your Way](https://github.com/jadianes/data-science-your-way)
