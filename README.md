@@ -1,5 +1,5 @@
 # MRI-Alzheimers
-This Repo contains the **dataset** and resources to aid in the **EDA**, **preprocessing**, and **model development** stages.
+This Repo is configured with the **dataset** and [resources](https://github.com/cprattos/MRI-Alzheimers/blob/main/Resources.md) to aid in the **EDA**, **preprocessing**, and **model development** stages for the MRI-Alzheimers Dataset.
 
 ![image](https://user-images.githubusercontent.com/99855735/166087831-1ad36e6e-5fbf-4dd8-8c1a-7fcb68a84311.png)
 

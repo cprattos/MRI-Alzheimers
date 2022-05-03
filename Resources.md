@@ -1,7 +1,11 @@
 # Practice Squad Training
 Very humbled to have you here to check out what we hope will be the start of a great group and forum for innovating, demoing, and creating. 
 
-This is the first iteration, so there may be areas with room for improvement. 
+We cannot fully encompass all that is Data Science. Nor can we keep up - the pace our field progresses outdates work as fast as it is produced. So, it is our hope to start a living document to bend, refine, and grow with our community. If you find the guide to be useful or even lacking, then add your expertise including:
+- Useful Jornal Articles, papers, or Github repos
+- Insightful Case Studies
+- Algorithms and techniques you favor 
+- Lessons learned and personal perspectives
 
 ## Table of Contents
 0. Download and Install Software
@@ -9,13 +13,14 @@ This is the first iteration, so there may be areas with room for improvement.
 2. EDA
 3. Preprocessing
 4. Model Development
+5. Useful GitHub Repos
 
 ## 0. Download & Install Software
 - [Anaconda](https://www.anaconda.com/products/distribution)
 - [VSCode](https://code.visualstudio.com/Download)
 - [Git](https://git-scm.com/downloads/)
 
-## 1.Enviornment Set Up
+## 1. Enviornment Set Up
 **VSCode** 
 1. Clone [this repo](https://github.com/cprattos/MRI-Alzheimers.git) in VSCode
    1. Open VSCode and type (`CTRL + Shift + P`) to access the command palette located at the top.
@@ -41,29 +46,34 @@ This is the first iteration, so there may be areas with room for improvement.
            * `conda env create -f experiment_env.yml`
            * `conda activate experiment_env`
            * `ipython kernel install --user --name experiment_env --display-name "experiment_env"`
-   6. Follow the on screen promts to activate your environment. From the command palette you many need to select your newly created conda enviornment from the **python: select Interpretor** 
-   7. If you created a new enviornment, now you can install your packages. If you don't know where to start `seaborn`, `Pandas`, `matplotlib` are good EDA libraries.
+   5. Follow the on screen promts to activate your environment. From the command palette you many need to select your newly created conda enviornment from the **python: select Interpretor** 
+   6. If you created a new enviornment, now you can install your packages. If you don't know where to start `seaborn`, `Pandas`, `matplotlib` are good EDA libraries.
          1. Run `pip install __`
          2. Run `pip install __`
-     
+4. Resources
+- [Definitive Guide to Conda Envionrments | Towards Data Science](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
+- [Create Enviornment through YML File | Medium](https://sachinjose31.medium.com/creating-an-environment-in-anaconda-through-a-yml-file-7e5deeb7676d)
+- [Azure Machine Learning in VS Code | VisualStudio Docs](https://code.visualstudio.com/docs/datascience/azure-machine-learning)
+- [Deploy models trained with Azure Machine Learning on your local machines | Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-local)
+- [Version Control | VSStudio Docs](https://code.visualstudio.com/Docs/editor/versioncontrol)
    
 
-# Exploratory Data Analysis
+## 2. Exploratory Data Analysis
 - [Exploratory Data Analysis | NIST](https://www.itl.nist.gov/div898/handbook/toolaids/pff/eda.pdf?msclkid=d7346bcfc00911ec93f062f08345b6a6)
 - [Car Price Prediction EDA Notebooks | Kaggle](https://www.kaggle.com/code/abhishekumeshparikh/car-price-prediction-eda-basics/notebook)
 - [EDA for Machine Leraning | analyticsvidhya](https://www.analyticsvidhya.com/blog/2021/04/rapid-fire-eda-process-using-python-for-ml-implementation/)
 - [Knowledge from the data and Data Exploration Analysis | Medium](https://medium.com/ml-research-lab/chapter-4-knowledge-from-the-data-and-data-exploration-analysis-99a734792733)
 - [Fnd the right Graphic | from Data to Viz](https://www.data-to-viz.com/)
 
-# Data Preprocessing
+## 3. Data Preprocessing
 - [What Is Data Processing: Cycle, Types, Methods, Steps and Examples | simplilearn](https://www.simplilearn.com/what-is-data-processing-article)
 - [Data Pre Processing Techniques You Should Know | Towards Data Science](https://towardsdatascience.com/data-pre-processing-techniques-you-should-know-8954662716d6)
 - [Preprocessing data with TensorFlow Transform | Tensorflow](https://www.tensorflow.org/tfx/tutorials/transform/simple)
 
-# Model Development
+## 4. Model Development
 - [Data Science Methodology From Modelling to Evaluation | Medium](https://medium.com/ml-research-lab/part-4-data-science-methodology-from-modelling-to-evaluation-3fb3c0cdf805)
 
-# Useful Github Repos
+## 5. Useful Github Repos
 - [Azure Data Roadshow Hackathon](https://github.com/memasanz/titantic-dataset-azuredataroadshowhack)
    * Tags: Conda Create from YML file, EDA, Preprocessing, Model Deployment to AML, Batch Inference Pipeline
 - [Data Science Your Way](https://github.com/jadianes/data-science-your-way)
