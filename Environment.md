@@ -64,4 +64,6 @@ This is the first iteration, so there may be areas with room for improvement.
 
 # Useful Github Repos
 - [Azure Data Roadshow Hackathon](https://github.com/memasanz/titantic-dataset-azuredataroadshowhack)
-   * Shown: Conda Create from YML file, EDA, Preprocessing, Model Deployment to AML, Batch Inference Pipeline
+   * Tags: Conda Create from YML file, EDA, Preprocessing, Model Deployment to AML, Batch Inference Pipeline
+- [Data Science Your Way](https://github.com/jadianes/data-science-your-way)
+   * Tags: Dataframes, EDA, Dimensionality reduction, Sentiment Analysis, Regularisation 
