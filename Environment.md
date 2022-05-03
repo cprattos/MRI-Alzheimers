@@ -57,3 +57,4 @@ This is the first iteration, so there may be areas with room for improvement.
 # Data Preprocessing
 
 # Model Development
+- [Data Science Methodology From Modelling to Evaluation | Medium](https://medium.com/ml-research-lab/part-4-data-science-methodology-from-modelling-to-evaluation-3fb3c0cdf805)
