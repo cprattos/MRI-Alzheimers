@@ -1,7 +1,7 @@
 # Practice Squad Training
 Very humbled to have you here to check out what we hope will be the start of a great group and forum for innovating, demoing, and creating. 
 
-This is the first iteration, so there may be areas with room for improvement. 
+As we progress this repo will be both expanded and refined to ensure the highest quality resources.  
 
 ## Table of Contents
 0. Download and Install Software
@@ -51,6 +51,7 @@ This is the first iteration, so there may be areas with room for improvement.
 - [Create Enviornment through YML File | Medium](https://sachinjose31.medium.com/creating-an-environment-in-anaconda-through-a-yml-file-7e5deeb7676d)
 - [Azure Machine Learning in VS Code | VisualStudio Docs](https://code.visualstudio.com/docs/datascience/azure-machine-learning)
 - [Deploy models trained with Azure Machine Learning on your local machines | Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-local)
+- [Version Control | VSStudio Docs](https://code.visualstudio.com/Docs/editor/versioncontrol)
    
 
 # Exploratory Data Analysis
