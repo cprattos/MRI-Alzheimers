@@ -55,13 +55,13 @@ This is the first iteration, so there may be areas with room for improvement.
 - [Fnd the right Graphic | from Data to Viz](https://www.data-to-viz.com/)
 
 # Data Preprocessing
--[What Is Data Processing: Cycle, Types, Methods, Steps and Examples | simplilearn](https://www.simplilearn.com/what-is-data-processing-article)
--[Data Pre Processing Techniques You Should Know | Towards Data Science](https://towardsdatascience.com/data-pre-processing-techniques-you-should-know-8954662716d6)
--[Preprocessing data with TensorFlow Transform | Tensorflow](https://www.tensorflow.org/tfx/tutorials/transform/simple)
+- [What Is Data Processing: Cycle, Types, Methods, Steps and Examples | simplilearn](https://www.simplilearn.com/what-is-data-processing-article)
+- [Data Pre Processing Techniques You Should Know | Towards Data Science](https://towardsdatascience.com/data-pre-processing-techniques-you-should-know-8954662716d6)
+- [Preprocessing data with TensorFlow Transform | Tensorflow](https://www.tensorflow.org/tfx/tutorials/transform/simple)
 
 # Model Development
 - [Data Science Methodology From Modelling to Evaluation | Medium](https://medium.com/ml-research-lab/part-4-data-science-methodology-from-modelling-to-evaluation-3fb3c0cdf805)
 
 # Useful Github Repos
 - [Azure Data Roadshow Hackathon](https://github.com/memasanz/titantic-dataset-azuredataroadshowhack)
-   -Shown: Conda Create from YML file, EDA, Preprocessing, Model Deployment to AML, Batch Inference Pipeline
+   * Shown: Conda Create from YML file, EDA, Preprocessing, Model Deployment to AML, Batch Inference Pipeline
