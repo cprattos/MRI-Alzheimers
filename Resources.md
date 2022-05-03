@@ -1,7 +1,7 @@
 # Practice Squad Training
 Very humbled to have you here to check out what we hope will be the start of a great group and forum for innovating, demoing, and creating. 
 
-We cannot fully encompass all that is Data Science. Nor can we keep up - the pace our field progresses outdates work as fast as it is produced. So, it is our hope to start a living document to expand, bend, and be refined with our community. If you find the guide to be useful or even lacking, then add your expertise including:
+We cannot fully encompass all that is Data Science. Nor can we keep up - the pace our field progresses outdates work as fast as it is produced. So, it is our hope to start a living document to bend, refine, and grow with our community. If you find the guide to be useful or even lacking, then add your expertise including:
 - Useful Jornal Articles, papers, or Github repos
 - Insightful Case Studies
 - Algorithms and techniques you favor 
