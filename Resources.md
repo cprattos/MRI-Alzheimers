@@ -49,6 +49,7 @@ This is the first iteration, so there may be areas with room for improvement.
 4. Resources
 - [Definitive Guide to Conda Envionrments | Towards Data Science](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
 - [Create Enviornment through YML File | Medium](https://sachinjose31.medium.com/creating-an-environment-in-anaconda-through-a-yml-file-7e5deeb7676d)
+- [Azure Machine Learning in VS Code | VisualStudio Docs](https://code.visualstudio.com/docs/datascience/azure-machine-learning)
 - [Deploy models trained with Azure Machine Learning on your local machines | Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-local)
    
 
