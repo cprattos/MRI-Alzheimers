@@ -67,3 +67,4 @@ This is the first iteration, so there may be areas with room for improvement.
    * Tags: Conda Create from YML file, EDA, Preprocessing, Model Deployment to AML, Batch Inference Pipeline
 - [Data Science Your Way](https://github.com/jadianes/data-science-your-way)
    * Tags: Dataframes, EDA, Dimensionality reduction, Sentiment Analysis, Regularisation 
+ - [How to use AzureML | Azure](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml)
