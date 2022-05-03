@@ -9,6 +9,7 @@ This is the first iteration, so there may be areas with room for improvement.
 2. EDA
 3. Preprocessing
 4. Model Development
+5. Useful GitHub Repos
 
 ## 0. Download & Install Software
 - [Anaconda](https://www.anaconda.com/products/distribution)
