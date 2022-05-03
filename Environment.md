@@ -48,9 +48,9 @@ This is the first iteration, so there may be areas with room for improvement.
    
 
 # Exploratory Data Analysis
-- [Exploratory Data Analysis|NIST](https://www.itl.nist.gov/div898/handbook/toolaids/pff/eda.pdf?msclkid=d7346bcfc00911ec93f062f08345b6a6)
-- [Car Price Prediction EDA Notebooks|Kaggle](https://www.kaggle.com/code/abhishekumeshparikh/car-price-prediction-eda-basics/notebook)
-- [EDA for Machine Leraning|analyticsvidhya](https://www.analyticsvidhya.com/blog/2021/04/rapid-fire-eda-process-using-python-for-ml-implementation/)
+- [Exploratory Data Analysis | NIST](https://www.itl.nist.gov/div898/handbook/toolaids/pff/eda.pdf?msclkid=d7346bcfc00911ec93f062f08345b6a6)
+- [Car Price Prediction EDA Notebooks| Kaggle](https://www.kaggle.com/code/abhishekumeshparikh/car-price-prediction-eda-basics/notebook)
+- [EDA for Machine Leraning| analyticsvidhya](https://www.analyticsvidhya.com/blog/2021/04/rapid-fire-eda-process-using-python-for-ml-implementation/)
 - [Knowledge from the data and Data Exploration Analysis|Medium](https://medium.com/ml-research-lab/chapter-4-knowledge-from-the-data-and-data-exploration-analysis-99a734792733)
 - [Fnd the right Graphic|from Data to Viz](https://www.data-to-viz.com/)
 - 
